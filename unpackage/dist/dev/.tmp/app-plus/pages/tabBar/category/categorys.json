@@ -1,0 +1,21 @@
+{
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "navigationBarBackgroundColor": "#000",
+  "backgroundColorTop": "#000",
+  "navigationStyle": "custom",
+  "titleNView": false,
+  "softinputNavBar": "none",
+  "subNVues": [
+    {
+      "id": "cateTitleNvue",
+      "path": "pages/tabBar/category/subNvue/cateTitleNvue",
+      "type": "navigationBar"
+    }
+  ],
+  "usingComponents": {
+    "lists": "/components/xm/list",
+    "lister": "/components/xm/lister"
+  }
+}

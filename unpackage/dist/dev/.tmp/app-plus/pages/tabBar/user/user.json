@@ -1,0 +1,18 @@
+{
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#000",
+  "backgroundColorTop": "#000",
+  "navigationBarTextStyle": "white",
+  "titleNView": false,
+  "subNVues": [
+    {
+      "id": "userTitleNvue",
+      "path": "pages/tabBar/user/subNvue/userTitleNvue",
+      "type": "navigationBar"
+    }
+  ],
+  "usingComponents": {
+    "cnixihuan": "/components/xm/cnixihuan"
+  }
+}

@@ -1,0 +1,38 @@
+
+.sddrt_ertxc.data-v-bcf0afa4 {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-column-gap: 20rpx;
+	grid-row-gap: 20rpx;
+}
+.dfdfrrttx.data-v-bcf0afa4 {
+	height: 444rpx;
+}
+.kjhddrxer.data-v-bcf0afa4 {
+	height: 320rpx;
+}
+.xingewer.data-v-bcf0afa4 {
+	width: 30rpx;
+}
+.sd_xd_drtx.data-v-bcf0afa4 {
+	line-height: 90rpx;
+	height: 90rpx;
+}
+.ciasd_drrt.data-v-bcf0afa4 {
+	padding: 20rpx;
+	color: #666;
+	background: #F7F7F7;
+	position: relative;
+	z-index: 100;
+	padding-bottom: 0;
+}
+.ssd_dedd.data-v-bcf0afa4 {
+	width: 250rpx;
+	margin: auto;
+	height: 4rpx;
+	background: #666;
+	position: relative;
+	top: 45rpx;
+	z-index: 1;
+}
+

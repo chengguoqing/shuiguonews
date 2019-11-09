@@ -1,0 +1,112 @@
+
+.ssd_jhh_der.data-v-f16def20 {
+	background: #fafafa;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	z-index: 100;
+	
+}
+.fenlei_page.data-v-f16def20 {}
+.ddf_xeertx.data-v-f16def20 {
+	padding-left: 170rpx !important;
+}
+.ssd_jhh_der image.data-v-f16def20 {
+	left: 40rpx;
+	top: 35rpx;
+}
+.dx_left_ert.data-v-f16def20 {
+	width: 170rpx;
+	background: #fff;
+	position: fixed;
+	left: 0;
+	top: 0rpx;
+	
+	
+	top: 180rpx;
+	
+}
+.sdsf_deret.data-v-f16def20 {
+	border-radius: 10rpx;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-column-gap: 20rpx;
+	grid-row-gap: 10rpx;
+}
+.case_deertt image.data-v-f16def20 {
+	width: 100%;
+	height: 170rpx;
+}
+.uyg_dseert.data-v-f16def20 {
+	position: relative;
+	line-height: 1.6 !important;
+}
+.uyg_dseert.act.data-v-f16def20 {
+	background: #FAFAFA;
+	color: #12C0A4 !important;
+}
+.uyg_dseert.act.data-v-f16def20:after {
+	content: ' ';
+	position: absolute;
+	left: 0;
+	top: 24rpx;
+	height: 30rpx;
+	width: 6rpx;
+	background: #12C0A4;
+}
+.dsfdfdst.data-v-f16def20 {
+	line-height: 1.4 !important;
+}
+.dsfd_derxertx.data-v-f16def20 {
+	height: 80rpx;
+	line-height: 80rpx;
+	background: #000;
+	color: #fff;
+	padding-bottom: 4rpx;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0rpx;
+	
+	left: 0;
+	z-index: 1000;
+}
+.dsf_ddfd.data-v-f16def20 {
+	line-height: 76rpx;
+	font-size: 30rpx;
+	text-align: center;
+	border-bottom: 4rpx solid #000;
+}
+.dsf_ddfd.act.data-v-f16def20 {
+	color: #12C0A4;
+	border-color: #12C0A4;
+}
+.ssd_jj_eertxwdrtx.data-v-f16def20 {
+	background: #fff;
+	padding: 40rpx;
+	padding-top: 30rpx;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-template-rows: repeat(2, 1fr);
+	grid-row-gap: 20rpx;
+	grid-column-gap: 50rpx;
+}
+.ssdderderxer.data-v-f16def20 {
+	border: 1px solid #EEEEEE;
+	border-radius: 8rpx;
+	overflow: hidden;
+	width: 100%;
+	height: 120rpx;
+	line-height: 120rpx;
+}
+.dsdf_dsrer.data-v-f16def20 {
+	text-align: center;
+}
+.dfd_seerxwer.data-v-f16def20 {
+	width: 40rpx;
+}
+.flsd_det.data-v-f16def20 {
+	height: 90rpx;
+	line-height: 90rpx;
+}
+

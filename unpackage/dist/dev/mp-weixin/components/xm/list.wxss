@@ -1,0 +1,14 @@
+
+.sddrt_ertxc.data-v-2ea71149{
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-column-gap: 20rpx;
+	grid-row-gap: 20rpx;
+}
+.dfdfrrttx.data-v-2ea71149{
+	height: 467rpx;
+}
+.kjhddrxer.data-v-2ea71149{
+	height: 320rpx;
+}
+

@@ -1,0 +1,39 @@
+page {
+	background: #F7F7F7;
+}
+
+.bk {
+	box-shadow: 0 0 20upx rgba(0, 0, 0, 0.1);
+}
+
+.lhen {
+	line-height: 90upx;
+}
+
+.ssdhensdr {
+	position: sticky;
+	left: 0;
+	top: 0;
+	z-index: 1000;
+	height: 140upx;
+	background: #000;
+	padding-top: 40upx;
+	/* #ifdef H5 */
+	height: 88upx;
+	padding-top: 0upx;
+	/* #endif */
+}
+
+.tiytert {
+	text-align: center;
+	position: relative;
+	line-height: 100upx;
+}
+.ssddswerta{
+	width: 35upx;
+	height: 35upx;
+	position: absolute;
+	left: 20upx;
+	top: 35upx;
+	z-index: 100;
+}

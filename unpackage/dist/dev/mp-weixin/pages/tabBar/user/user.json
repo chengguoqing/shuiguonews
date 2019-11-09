@@ -1,0 +1,10 @@
+{
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#000",
+  "backgroundColorTop": "#000",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "cnixihuan": "/components/xm/cnixihuan"
+  }
+}

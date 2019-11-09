@@ -1,0 +1,17 @@
+{
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "navigationBarBackgroundColor": "#000",
+  "backgroundColorTop": "#000",
+  "onReachBottomDistance": 50,
+  "titleNView": false,
+  "softinputNavBar": "none",
+  "subNVues": [
+    {
+      "id": "homeTitleNvue",
+      "path": "pages/tabBar/home/subNvue/homeTitleNvue",
+      "type": "navigationBar"
+    }
+  ],
+  "usingComponents": {}
+}

@@ -1,0 +1,12 @@
+{
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "navigationBarBackgroundColor": "#000",
+  "backgroundColorTop": "#000",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "lists": "/components/xm/list",
+    "lister": "/components/xm/lister"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "pages": [
+    "pages/tabBar/home/home",
+    "pages/tabBar/category/categorys",
+    "pages/tabBar/cart/cart",
+    "pages/tabBar/user/user",
+    "pages/goods/goods-list/goods-list",
+    "pages/goods/goods",
+    "pages/login/login",
+    "pages/login/register",
+    "pages/login/resetpasswd",
+    "pages/order/confirmation",
+    "pages/user/order_list/order_list",
+    "pages/user/setting/setting",
+    "pages/user/myQR/myQR",
+    "pages/msg/msg",
+    "pages/msg/chat/chat",
+    "pages/user/coupon/coupon",
+    "pages/user/keep/keep",
+    "pages/user/address/address",
+    "pages/user/address/edit/edit",
+    "pages/user/deposit/deposit",
+    "pages/pay/payment/payment",
+    "pages/pay/success/success",
+    "pages/goods/ratings/ratings"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#ffffff",
+    "backgroundColorTop": "#ffffff",
+    "backgroundColorBottom": "#ffffff"
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "selectedColor": "#13C0A4",
+    "borderStyle": "white",
+    "backgroundColor": "#000",
+    "list": [
+      {
+        "pagePath": "pages/tabBar/home/home",
+        "iconPath": "static/img/bottom/dsfds_a_a.png",
+        "selectedIconPath": "static/img/bottom/dsfds_b_a.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabBar/category/categorys",
+        "iconPath": "static/img/bottom/dsfds_a_b.png",
+        "selectedIconPath": "static/img/bottom/dsfds_b_b.png",
+        "text": "全部分类"
+      },
+      {
+        "pagePath": "pages/tabBar/cart/cart",
+        "iconPath": "static/img/bottom/dsfds_a_c.png",
+        "selectedIconPath": "static/img/bottom/dsfds_b_c.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/tabBar/user/user",
+        "iconPath": "static/img/bottom/dsfds_a_d.png",
+        "selectedIconPath": "static/img/bottom/dsfds_b_d.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {},
+  "sitemapLocation": "sitemap71.json"
+}
